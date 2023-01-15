@@ -1,0 +1,38 @@
+
+
+
+.container 
+{
+    height: 100%;
+    width:100%;
+    
+	background-repeat:no-repeat;    
+}
+.container-box
+{
+	display:inline-block; 
+	padding:0px; 
+	background: rgba(255, 255, 255, .8);
+	border: 1px solid #fff;	
+	position: fixed;
+  	top: 2%;
+  	left: 88%;
+}
+
+.modal-content
+{
+	background: rgba(255, 255, 255, .7);	
+}
+
+
+.rotated
+{
+	-moz-transform:rotate(-90deg);
+    -ms-transform:rotate(-90deg);
+    -o-transform:rotate(-90deg);
+    -webkit-transform:rotate(-deg);
+    transform-origin: top left;  
+}
+
+
+
